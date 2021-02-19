@@ -8,15 +8,9 @@ package com.mycompany.matrix_multiplication_java_using_3_method;
 
 import java.util.Date;
 
-/**
- *
- * @author metr
- */
 public class MainExampleGroup {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) 
     {
         
