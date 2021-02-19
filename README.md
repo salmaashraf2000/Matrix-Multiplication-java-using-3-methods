@@ -26,4 +26,4 @@ This are the classes use by this method.<br/>
 >MultiplierTask<br/>
 >ParallelGroupMultiplier<br/>
 >GroupMultiplierTask<br/>
->MainExampleGroup  (main)<br/>
+>MainExampleGroup (main)<br/>
