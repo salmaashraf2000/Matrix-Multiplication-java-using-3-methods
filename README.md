@@ -9,7 +9,8 @@ This are the classes use by this method.<br/>
 >RowMultiplierTask<br/>
 >MainExampleRow  (main)<br/>
 <br/>
-Second Method<br/>
+
+**Second Method**<br/>
 For every number in the result matrix one thread will calculate it.<br/>
 This are the classes use by this method.<br/>
 >Multiplier<br/>
@@ -17,6 +18,8 @@ This are the classes use by this method.<br/>
 >ParallelIndividualMultiplier<br/>
 >IndividualMultiplierTask<br/>
 >MainExampleIndividual  (main)<br/>
+<br/>
+
 **Third Method**<br/>
 Specify a number for threads to be used and divide the rows of result matrix on the available threads,<br/>
 to calculate the multiplication.<br/>
