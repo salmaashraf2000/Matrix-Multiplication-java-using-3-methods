@@ -8,6 +8,7 @@ This are the classes use by this method.<br/>
 >ParallelRowMultiplier<br/>
 >RowMultiplierTask<br/>
 >MainExampleRow  (main)<br/>
+<br/>
 Second Method<br/>
 For every number in the result matrix one thread will calculate it.<br/>
 This are the classes use by this method.<br/>
